@@ -69,3 +69,118 @@
   .margin{
       margin: 150px;
   }
+  .about1{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column ;
+}
+.section-title{
+    display: flex;
+    font-weight: 800;
+    font-size: 32px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 130px;
+}
+.section-content{
+    margin-top: 26px;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 150px;
+    padding-right: 150px;
+    opacity: 0.8;
+}
+.layer1{
+    margin-top: 100px;
+    justify-content: space-between;
+    align-items: center;
+    display:flex
+    
+}
+.layer1-description{
+    justify-content: left;
+    padding-right: 150px;
+}
+.layer1-title{
+    font-size: 26px;
+    font-weight: 700;
+    opacity: 0.7;
+}
+.layer1-content{
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+
+}
+main a{
+    color: black;
+}
+.layer1-pic{
+    width: 274;
+    height: 240;
+    justify-content: center;
+}
+.layer2{
+    margin-top: 100px;
+    justify-content: space-between;
+    align-items: center;
+    display:flex
+}
+.layer2-description{
+        justify-content: right;
+        padding-left: 150px;
+    
+}
+.layer2-title{
+        font-size: 26px;
+        font-weight: 700;
+        opacity: 0.7;
+}
+.layer2-content{
+        font-size: 16px;
+        font-weight: 400;
+        opacity: 0.8;
+ }
+.btn-secondary{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 18px;
+    opacity: 0.8;
+}
+.yt {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid gray; 
+        border-radius: 8px; 
+        padding: 20px;
+        margin: 20px auto; 
+        max-width: fit-content;
+}
+.lan{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 120px 0px 120px 0px;
+
+}
+.HTML{
+    background-color: rgba(255, 76, 30, 0.05);
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.CSS{
+    background-color: rgba(0, 76, 232, 0.05);
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.JS{
+    background-color: rgba(255, 223, 0, 0.05);
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
